@@ -7,7 +7,7 @@ metadata:
   description: A template for a simple web site
 spec:
   owner: user:guest
-  type: website
+  type: service
 
   # These parameters are used to generate the input form in the frontend, and are
   # used to gather input data for the execution of the template.
