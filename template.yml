@@ -43,7 +43,7 @@ spec:
       name: Fetch Base
       action: fetch:template
       input:
-        url: ./content
+        url: https://github.com/juanglk/Test-Template/tree/main/content
         values:
           name: ${{ parameters.name }}
 
