@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: Template
+kind: API
 metadata:
   name: petstore
   # This is an extra long description with Markdown
